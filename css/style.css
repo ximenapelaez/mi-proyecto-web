@@ -6,7 +6,10 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --blue: #007bff;
+  --blue: #007bff;body {
+    font-size: 15px;
+}
+
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
